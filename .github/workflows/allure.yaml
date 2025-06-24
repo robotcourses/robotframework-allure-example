@@ -42,6 +42,7 @@ jobs:
           gh_pages: gh-pages
           allure_history: allure-history
           allure_results: reports/allure-results
+          subfolder: teste_init
 
       - name: Publish test report
         uses: peaceiris/actions-gh-pages@v3
