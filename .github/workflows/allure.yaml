@@ -52,3 +52,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: allure-history
+
+      - name: Allure Report Link
+        run: echo https://robotcourses.github.io/robotframework-allure-example/teste_init/${{ github.run_id }}/
