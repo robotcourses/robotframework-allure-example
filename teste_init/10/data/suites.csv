@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 24 15:56:57 GMT 2025","Tue Jun 24 15:56:57 GMT 2025","1","","Tests","TestReportAllure","","","Fail",""
+"skipped","Tue Jun 24 15:56:57 GMT 2025","Tue Jun 24 15:56:57 GMT 2025","1","","Tests","TestReportAllure","","","Skip",""
+"passed","Tue Jun 24 15:56:57 GMT 2025","Tue Jun 24 15:56:57 GMT 2025","1","","Tests","TestReportAllure","","","Pass",""
