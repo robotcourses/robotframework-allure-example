@@ -54,4 +54,4 @@ jobs:
           publish_dir: allure-history
 
       - name: Allure Report Link
-        run: echo https://robotcourses.github.io/robotframework-allure-example/teste_init/${{ github.run_id }}/
+        run: echo https://robotcourses.github.io/robotframework-allure-example/teste_init/${{ github.run_number }}/
