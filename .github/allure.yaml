@@ -1,5 +1,8 @@
 name: Run tests and publish report
-on: [push]
+
+on:
+  worfkflow_dispatch:
+
 jobs:
   test:
     runs-on: ubuntu-latest
